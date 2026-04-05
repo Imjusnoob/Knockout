@@ -31,7 +31,7 @@ Players roll dice and try to achieve specific combinations to win.
 
 ## Preview
 
-(Add screenshot or GIF)
+<img width="1918" height="866" alt="Screenshot 2026-04-05 165348" src="https://github.com/user-attachments/assets/c6ff1ba9-69a8-43a6-af55-dc296332be60" />
 
 ## What I learned
 
